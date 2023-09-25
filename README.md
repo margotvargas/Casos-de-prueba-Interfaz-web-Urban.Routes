@@ -2,7 +2,6 @@
 <h1 align="center">
   Proyecto Urban.Routes
  </h1>
-Introducción
 
 En este proyecto mentoriado por Tripleten Latam, se muestra la web de Urban.Routes: servicio que construye rutas para diversos tipos de transporte con el calcula del tiempo y el coste del viaje y servicio de transporte. Por lo que, se ha logrado realizar la ejecución de pruebas, de acuerdo al analisis de los requistos, clases de equivalencia, asi como los casos de prueba, informe de errores, lista de comprobación, entre otros.
 
